@@ -1,0 +1,2 @@
+banana|5|frutas|caio|marcos|3|19/11/2022
+banana|5|frutas|caio|marcos|3|19/11/2022
