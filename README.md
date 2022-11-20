@@ -16,7 +16,7 @@ Esse é projeto onde coloco em prática os conceitos da arquitetura MVC (model, 
 
 # :hammer: Funcionalidades do projeto
 
-- `Cadastrar/Remover/Alterar Categoria e Produto`: descrição da funcionalidade 1  
+- `Cadastrar/Remover/Alterar/Mostrar Categoria e Produto`: Um CRUD das categorias e produtos com as funcionalidades  que esse serviço oferece. (Create, Read, Update, Delete)
 &nbsp;
 - `Visualização de estoque`: descrição da funcionalidade 2
 &nbsp;
