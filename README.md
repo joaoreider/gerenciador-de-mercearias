@@ -6,9 +6,9 @@
 
 
 
-Esse é projeto onde coloco em prática os conceitos da arquitetura MVC (model. view e controller) e os fundamentos da linguagem Python, como Orientação a objetos e lógica de programação. 
+Esse é projeto onde coloco em prática os conceitos da arquitetura MVC (model, view e controller) e os fundamentos da linguagem Python - Orientação a objetos e lógica de programação.
 
-<h4> 
+<h4>
 
 > :construction:  Projeto em construção  :construction:
 
@@ -16,17 +16,20 @@ Esse é projeto onde coloco em prática os conceitos da arquitetura MVC (model. 
 
 # :hammer: Funcionalidades do projeto
 
-- `Cadastrar/Remover/Alterar Categoria e Produto`: descrição da funcionalidade 1 
+- `Cadastrar/Remover/Alterar Categoria e Produto`: descrição da funcionalidade 1  
+&nbsp;
 - `Visualização de estoque`: descrição da funcionalidade 2
-
+&nbsp;
 - `Relatório de produto e venda`: descrição da funcionalidade 3
+&nbsp;
+- ``Armazenamento de dados``: Utilizo o armazenamento estático em arquivos de texto que permite salvar e ler dados a qualquer momento sem perder as informações quando o programa para de ser executado
 
 # ✔️ Técnicas e tecnologias utilizadas
 
 - ``Python``
 - ``Arquitetura MVC``
 - ``Paradigma de orientação a objetos``
-- ``Armazenamento de dados``
+
 
 # 📁 Acesso ao projeto
 
