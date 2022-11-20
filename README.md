@@ -8,9 +8,9 @@
 
 Esse é projeto onde coloco em prática os conceitos da arquitetura MVC (model. view e controller) e os fundamentos da linguagem Python, como Orientação a objetos e lógica de programação. 
 
-<h4 align="center"> 
+<h4> 
 
-:construction:  Projeto em construção  :construction:
+> :construction:  Projeto em construção  :construction:
 
 </h4>
 
