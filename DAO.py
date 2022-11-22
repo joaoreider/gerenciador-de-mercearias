@@ -46,7 +46,8 @@ class DaoVenda:
         
         vend = []
         for i in cls.venda:
-            vend.append(Venda(Produtos(i[0], i[1], i[2], i[3], i[4], i[5], i[6])))
+            vend.append(Venda(Produtos(i[0], i[1], i[2]), i[3], i[4], i[5], i[6]))
+        
         return vend
 
 class DaoEstoque:
@@ -67,7 +68,7 @@ class DaoEstoque:
         est= []
         if len(cls.estoque) > 0:
             for i in cls.estoque:
-                est.append(Estoque(Produtos(i[0], i[1], i[2]), i[3]))
+                est.append(Estoque(Produtos(i[0], i[1], i[2]), int(i[3])))
 
         return est
 

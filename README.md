@@ -5,8 +5,17 @@
 
 
 
+<p style='text-align: justify;'> 
+Esse é projeto onde coloco em prática os conceitos da arquitetura MVC (model, view e controller) e os fundamentos da linguagem Python - Orientação a objetos e lógica de programação. </p>
 
-Esse é projeto onde coloco em prática os conceitos da arquitetura MVC (model, view e controller) e os fundamentos da linguagem Python - Orientação a objetos e lógica de programação.
+<p style='text-align: justify;'> 
+A arquitetura MVC é extremamente importante porque melhora a usabilidade do software e otimiza o tempo das requisições entre o banco de dados e a interface de usuário.</p>
+<p style='text-align: justify;'> 
+A <strong>Model</strong> é responsável por gerenciar e manipular os dados de acordo com as regras de negócio estabelecidas.</p>
+<p style='text-align: justify;'> 
+A <strong>Controller</strong> é a camada responsável pela "lógica pesada", e faz as conexões enviadas pela View com as respostas da Model.</p>
+<p style='text-align: justify;'> 
+A <strong>View</strong> fica com o papel de apresentar as informações e lida com o código que o usuário irá interagir diretamente</p>
 
 <h4>
 

@@ -1,3 +1,4 @@
 carne
 legumes
 frios
+fruta
