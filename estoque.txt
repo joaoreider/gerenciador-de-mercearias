@@ -1,3 +1,0 @@
-acem|4|carne|12
-banana|2|fruta|1
-feijao|6|legumes|17

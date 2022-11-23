@@ -1,0 +1,5 @@
+legumes
+verduras
+carne
+frutas
+bebidas

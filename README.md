@@ -11,27 +11,25 @@ Esse é projeto onde coloco em prática os conceitos da arquitetura MVC (model, 
 <p style='text-align: justify;'> 
 A arquitetura MVC é extremamente importante porque melhora a usabilidade do software e otimiza o tempo das requisições entre o banco de dados e a interface de usuário.</p>
 <p style='text-align: justify;'> 
-A <strong>Model</strong> é responsável por gerenciar e manipular os dados de acordo com as regras de negócio estabelecidas.</p>
-<p style='text-align: justify;'> 
-A <strong>Controller</strong> é a camada responsável pela "lógica pesada", e faz as conexões enviadas pela View com as respostas da Model.</p>
-<p style='text-align: justify;'> 
-A <strong>View</strong> fica com o papel de apresentar as informações e lida com o código que o usuário irá interagir diretamente</p>
+Mesmo sendo um projeto de nível iniciante, o Gerenciador de Mercearia é um projeto muito interessante porque demonstra que sei utilizar as bases da linguagem Python de maneira sólida e, para além disso, também uso a programação de forma organizada e estruturada, já seguindo um padrão de arquitetura de software desde o início da minha carreira.
+</p>
+
 
 <h4>
 
-> :construction:  Projeto em construção  :construction:
+> VERSÃO 1.0
 
 </h4>
 
 # :hammer: Funcionalidades do projeto
 
-- `Cadastrar/Remover/Alterar/Mostrar Categoria e Produto`: Um CRUD das categorias e produtos com as funcionalidades  que esse serviço oferece. (Create, Read, Update, Delete)
+- `Cadastrar/Remover/Alterar/Mostrar Categoria e Produto`: É a funcionalidade chave do programa que permite ao usuário cadastrar, remover, alterar e visualizar as categorias e produtos do sistema. Também conhecido como CRUD (Create, Read, Update, Delete) é uma aplicação muito cumum no ambiente de desenvolvimento.
 &nbsp;
-- `Visualização de estoque`: descrição da funcionalidade 2
+- `Visualização de estoque`: É possível ver todo o estoque que foi cadastrado no sistema a qualquer momento chamando a função mostrarEstoque() da classe ControllerEstoque
 &nbsp;
-- `Relatório de produto e venda`: descrição da funcionalidade 3
+- `Relatório de produto e venda`: Todas as vendas ficam registradas para visualização a qualquer momento e o relatório de vendas também permite que o usuário filtre as vendas  em um período estabelecido.
 &nbsp;
-- ``Armazenamento de dados``: Utilizo o armazenamento estático em arquivos de texto que permite salvar e ler dados a qualquer momento sem perder as informações quando o programa para de ser executado
+- ``Armazenamento de dados``: Utilizo o armazenamento estático em arquivos de texto para salvar e ler dados a qualquer momento sem perda de informações quando o programa  é interrompido.
 
 # ✔️ Técnicas e tecnologias utilizadas
 
@@ -42,6 +40,6 @@ A <strong>View</strong> fica com o papel de apresentar as informações e lida c
 
 # 📁 Acesso ao projeto
 
-**(INSIRA O LINK DO REPOSITÓRIO)**
-Indique como é possível baixar ou acessar o código fonte do projeto, seja projeto inicial ou final**
+**(LINK DO REPOSITÓRIO)**
+https://github.com/joaoreider/gerenciador-de-mercearias
 

@@ -1,7 +1,7 @@
+feijao|6|legumes|joao|caio|2|01/10/2022
+feijao|6|legumes|joao|caio|2|02/11/2022
 feijao|6|legumes|joao|caio|2|21/11/2022
-feijao|6|legumes|joao|caio|2|21/11/2022
-feijao|6|legumes|joao|caio|2|21/11/2022
-feijao|6|legumes|joao|caio|2|21/11/2022
+feijao|6|legumes|joao|caio|2|25/11/2022
 banana|2|fruta|joao|caio|1|21/11/2022
 banana|2|fruta|joao|caio|1|21/11/2022
 banana|2|fruta|joao|caio|1|21/11/2022
